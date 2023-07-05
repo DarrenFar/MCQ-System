@@ -1,0 +1,10 @@
+﻿1.;Which of these elements in HTML can be used for making a text bold?;a. <a>;b. <pre>;c. <br>;d. <b>;d;d. <b>
+2.;Which tag do we use in HTML for inserting a line-break?;a. <a>;b. <br>;c. <b>;d. <pre>;b;b. <br>
+3.;Which tag do we use to define the options present in the drop-down selection lists?;a. <list>;b. <option>;c. <dropdown>;d. <select>;b;b. <option>
+4.;In HTML, how do we insert an image?;a. <img src = “jtp.png” />;b. <img href = “jtp.png” />;c. <img link = “jtp.png” />;d. <img url = “jtp.png” />;a;a. <img src = “jtp.png” />
+5.;In HTML, which of these would add a background color?;a. <marquee bgcolor = “plum”>;b. <marquee bg color: “plum”>;c. <marquee color = “plum”>;d. <marquee bg-color = “plum”>;a;a. <marquee bgcolor = “plum”>
+6.;In HTML, the correct way of commenting out something would be using:;a. ## and #;b. <!– and –>;c. </– and -/->;d. <!– and -!>;b;b. <!– and –>
+7.;In HTML, the tags are;a. in upper case;b. case-sensitive;c. in lowercase;d. not case sensitive;d;d. not case sensitive
+8.;Which one is the HTML document’s root tag?;a. <head>;b. <body>;c. <title>;d. <html>;d;d. <html>
+9.;Which HTML tag do we use to display text along with a scrolling effect?;a. <div>;b. <scroll>;c. <marquee>;d. None of the above;c;c. <marquee>
+10.;Which tag is used in HTML5 for the initialization of the document type?;a. <Doctype HTML>;b. <!DOCTYPE html>;c. <Doctype>;d. <\Doctype html>;b;b. <!DOCTYPE html>

@@ -1,0 +1,10 @@
+﻿1.;Which of these components are used in a Java program for compilation, debugging, and execution?;a. JDK;b. JVM;c. JRE;d. JIT;a;a. JDK
+2.;When an expression consists of int, double, long, float, then the entire expression will get promoted into a data type that is:;a. float;b. double;c. int;d. long;b;b. double
+3.;Number of primitive data types in Java are?;a. 6;b. 7;c. 8;d. 9;c;c. 8
+4.;Out of these methods of the String class, which one can be used for testing the strings for equality?;a. isequals();b. isequal();c. equals();d. equal();c;c. equals()
+5.;Java is a Successor to which programming language?;a. c++;b. HTML;c. phyton;d. php;a;a. c++
+6.;Which company owns Java at present?;a. IBM;b. Microsoft;c. Sun Microsystems;d. Oracle;d;d. Oracle
+7.;Who invented Java language?;a. Dennis Ritchie;b. James Gosling;c. Larry Page;d. Serge Page;b;b. James Gosling
+8.;Where does the String Pool get stored?;a. Metaspace;b. Java Stack;c. Java Heap;d. Permanent Generation;c;c. Java Heap
+9.;which one is not a data type in java?;a. int;b. double;c. float;d. double string;d;d. double string
+10.;Which data type is used to create a variable that should store text?;a. Txt;b. String;c. string;d. myString;b;b. String
